@@ -1,0 +1,12 @@
+*, 
+*::after, 
+*::before {
+    margin:0; 
+    /* margin removed from the elements */
+    box-sizing: border-box;
+}
+
+html, 
+body {
+    height: 100%;
+}
