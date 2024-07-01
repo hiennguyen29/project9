@@ -1,11 +1,6 @@
-.🫠 {
+.heading {
     color: var(--branding);
     text-align: center;
     font-size: 60px;
 }
 
-.💲{
-    text-align: center;
-    text-transform: capitalize;
-    font-size: 50px;
-}
